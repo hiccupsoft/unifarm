@@ -5,7 +5,7 @@
       {
         "name": "USD Coin",
         "symbol": "USDC",
-        "address": "0x04089116D3F030c94001a072388a5b4d73F1Ead1",
+        "address": "0x1e64502330492fC502A24734A56d111262491f53",
         "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdc.png",
         "decimals": 6,
         "price": 1.01,
