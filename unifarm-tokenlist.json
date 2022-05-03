@@ -1,0 +1,26 @@
+{
+    "maintainer": "Opendefi by Oropocket",
+    "ipfs": 0,
+    "tokenlist": [
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x04089116D3F030c94001a072388a5b4d73F1Ead1",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdc.png",
+        "decimals": 6,
+        "price": 1.01,
+        "chainId": 3
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+        "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
+        "decimals": 18,
+        "price": 3223.59,
+        "chainId": 3
+      }
+    ],
+    "label": "maintained by Oro Pocket",
+    "keywords": ["defi", "open defi", "Oro Pocket"]
+  }
